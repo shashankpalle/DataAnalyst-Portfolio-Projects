@@ -4,7 +4,7 @@ Hi! This is collection of my data analystics potfolio projects.
 
 ## Dataset 
 
-I have used a covid dataset conatining covid information from 2019 - 2022 from here - https://ourworldindata.org/covid-deaths
+I have used a covid dataset containing covid information from 2019 - 2022 from here - https://ourworldindata.org/covid-deaths
 
 ## Data Exploration 
 
