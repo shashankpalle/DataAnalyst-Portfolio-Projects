@@ -1,6 +1,6 @@
-# DataAnalyst-Portfolio-Projects
+# Covid Dashboard
 
-Hi! This is collection of my data analystics potfolio projects.
+In this work, I have used covid data in Tableau to give an overview of covid impacts around the world.
 
 ## Dataset 
 
